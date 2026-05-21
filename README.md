@@ -28,7 +28,7 @@ Actualmente busco mi **primera experiencia profesional** donde pueda aportar y s
 <td width="35%" valign="top" align="center">
 
 <!-- 👇 REEMPLAZÁ esta ruta con la foto de tu gato en el repo -->
-<img src="./assets/gato.jpg" width="200" style="border-radius: 50%; border: 3px solid #6366f1;" alt="Mi gato negro" />
+<img src="gato.jpg" width="200" style="border-radius: 50%; border: 3px solid #6366f1;" alt="Mi gato negro" />
 
 <br/>
 <sub><b>🐾 El verdadero senior developer</b></sub>
