@@ -114,10 +114,10 @@ Vue Router · Responsive Design · Consumo de APIs externas
 
 <div align="center">
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1"/>
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&langs_count=8"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=UlisesA-2025&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlisesA-2025&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&langs_count=8"/>
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=6366f1&currStreakLabel=a855f7&locale=es" />
+<img src="https://streak-stats.demolab.com?user=UlisesA-2025&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=6366f1&currStreakLabel=a855f7&locale=es" />
 
 </div>
 
@@ -138,8 +138,8 @@ Vue Router · Responsive Design · Consumo de APIs externas
 
 <div align="left">
 
-[![Gmail](https://img.shields.io/badge/TU__GMAIL@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_GMAIL@gmail.com)
-[![Instagram](https://img.shields.io/badge/@TU__USUARIO__IG-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/TU_USUARIO_IG)
+[![Gmail](https://img.shields.io/badge/uaimar75L@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uaimar75@gmail.com)
+[![Instagram](https://img.shields.io/badge/@ulises_aimar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ulises_aimar)
 
 </div>
 
