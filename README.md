@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- BANNER ANIMADO -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=Tecnicatura+Universitaria+en+Programaci%C3%B3n+%7C+UTN+%F0%9F%8E%93;Pr%C3%B3ximo+a+graduarme+%E2%80%94+solo+me+falta+el+TIF!" alt="Subtitle" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Ulises+%F0%9F%91%8B;Full+Stack+Dev+en+formaci%C3%B3n;Builder+%7C+Learner+%7C+Cat+dad+%F0%9F%90%88%E2%80%8D%E2%AC%9B" alt="Typing header" />
@@ -27,7 +26,6 @@ Actualmente busco mi **primera experiencia profesional** donde pueda aportar y s
 <td width="10%"></td>
 <td width="35%" valign="top" align="center">
 
-<!-- 👇 REEMPLAZÁ esta ruta con la foto de tu gato en el repo -->
 <img src="gato.jpg" width="200" style="border-radius: 50%; border: 3px solid #6366f1;" alt="Mi gato negro" />
 
 <br/>
@@ -138,7 +136,7 @@ Vue Router · Responsive Design · Consumo de APIs externas
 
 <div align="left">
 
-[![Gmail](https://img.shields.io/badge/uaimar75L@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uaimar75@gmail.com)
+[![Gmail](https://img.shields.io/badge/uaimar75@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uaimar75@gmail.com)
 [![Instagram](https://img.shields.io/badge/@ulises_aimar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ulises_aimar)
 
 </div>
