@@ -136,6 +136,7 @@ Vue Router · Responsive Design · Consumo de APIs externas
 <div align="left">
 
 [![Gmail](https://img.shields.io/badge/uaimar75@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uaimar75@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ulises-aimar-414989410)
 [![Instagram](https://img.shields.io/badge/@ulises_aimar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ulises_aimar)
 
 </div>
