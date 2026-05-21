@@ -147,9 +147,9 @@ Vue Router · Responsive Design · Consumo de APIs externas
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&color=a855f7&style=flat-square&label=visitas" />
+<img src="https://komarev.com/ghpvc/?username=UlisesA-2025&color=a855f7&style=flat-square&label=visitas" />
 
-*"El código es como los gatos: nunca hace exactamente lo que esperás, pero igual lo amás."* 🐾
+ 🐾 🐾 🐾 🐾 🐾
 
 </div>
 
