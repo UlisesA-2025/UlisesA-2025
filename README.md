@@ -112,9 +112,7 @@ Vue Router · Responsive Design · Consumo de APIs externas
 
 <div align="center">
 
-<img height="155em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=UlisesA-2025&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1"/>
-
-<img height="155em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=UlisesA-2025&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&langs_count=8"/>
+<img height="155em" src="https://skillicons.dev/icons?i=cs,ts,js,dotnet,vue,nestjs,postgres,mongodb&theme=dark"/>
 
 <img src="https://streak-stats.demolab.com?user=UlisesA-2025&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=6366f1&currStreakLabel=a855f7&locale=es" />
 
