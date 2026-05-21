@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=Tecnicatura+Universitaria+en+Programaci%C3%B3n+%7C+UTN+%F0%9F%8E%93;Pr%C3%B3ximo+a+graduarme+%E2%80%94+solo+me+falta+el+TIF!" alt="Subtitle" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Ulises+%F0%9F%91%8B;Full+Stack+Dev+en+formaci%C3%B3n;Builder+%7C+Learner+%7C+Siempre+aprendiendo+%F0%9F%9A%80" alt="Typing header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Ulises+%F0%9F%91%8B;Full+Stack+Dev+en+formaci%C3%B3n;Builder+%7C+Learner+%7C+Siempre+aprendiendo" alt="Typing header" />
 
 </div>
 
