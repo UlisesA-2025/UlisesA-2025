@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 Quién soy
 
-Tengo 22 años, vivo en Argentina y estoy a **un paso de graduarme** en la Tecnicatura de Programación de la UTN. Desarrollé proyectos reales durante la carrera usando tecnologías modernas tanto en el backend como en el frontend.
+Tengo 23 años, vivo en Argentina y estoy a **un paso de graduarme** en la Tecnicatura de Programación de la UTN. Desarrollé proyectos reales durante la carrera usando tecnologías modernas tanto en el backend como en el frontend.
 
 Me apasiona entender cómo funcionan las cosas por dentro, escribir código limpio y seguir creciendo — hay demasiado para aprender y eso me entusiasma.
 
